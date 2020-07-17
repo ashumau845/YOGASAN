@@ -23,11 +23,17 @@ I approached this project to learn about the android development environment not
 implements different aspects of android ability and which were, totally unrelated to our project. Among those were a primitive calculator, username-password authentication window, Splash screen music player, a primitive camera app and others Now, after getting pretty much exposure in android development, we decided to go ahead with our project app. Ignoring the futile attempts to add many features in our app, which unfortunately could not be
 made possible, the work of our final app can be divided into the following phases:
 Card UI
+
 Drag and Drop
+
 Swipe able Tabs
+
 Colour Coding
+
 Different yoga poses
+
 Steps of doing particular pose
+
 Timer
 
 Card UI:
@@ -41,9 +47,13 @@ taking and tough task.
 Remaining tasks
 
 A better UI/UX high definition screen view.
+
 Addition of unlimited yoga poses
+
 Addition of some benefits of every yoga pose
+
 Reminders if not done yoga a single day.
+
 Furthermore implementations.
 
 With this initiative, I hope to encourage people to keep up
