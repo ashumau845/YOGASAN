@@ -140,8 +140,10 @@ public class ThirdActivity extends AppCompatActivity {
     }
 
     private void stopTimer() {
-        countDownTimer.cancel();
-        mTimerRunning=false;
+        if (countDownTimer != null && mTimerRunning) {
+            countDownTimer.cancel();
+            mTimerRunning = false;
+        }
         button.setText("Start");
     }
 }
